@@ -3,3 +3,5 @@ Fakultas : Fakultas Ilmu Komputer
 Program Study : Teknik Informatika
 Universitas : Universitas Banten Jaya
 Alamat : Jl. Syekh Nawawi Al-Bantani
+Kelompok : 02
+Semester : 4
